@@ -142,10 +142,12 @@
     <ClCompile Include="Array.cpp" />
     <ClCompile Include="k-way-merge.cpp" />
     <ClCompile Include="MinHeap.cpp" />
+    <ClCompile Include="MinObject.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Array.h" />
     <ClInclude Include="MinHeap.h" />
+    <ClInclude Include="MinObject.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

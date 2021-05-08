@@ -24,12 +24,18 @@
     <ClCompile Include="Array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MinObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MinHeap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MinObject.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
